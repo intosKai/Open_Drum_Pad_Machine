@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DrumPad_beta.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SavedBinds" Type="System.String" Scope="User">
+      <Value Profile="(Default)">90 88 67 86 65 83 68 70 81 87 69 82 49 50 51 52 </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
